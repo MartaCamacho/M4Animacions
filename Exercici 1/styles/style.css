@@ -24,17 +24,17 @@ body {
     25%
     {
         top: 90vh;
-        left: 300px;
+        left: 25%
     }    
     50%
     {
         top: 0vh;
-        left: 600px;
+        left: 50%;
     }    
     75%
     {
         top: 90vh;
-        left: 900px;
+        left: 75%;
     }    
     100%
     {
